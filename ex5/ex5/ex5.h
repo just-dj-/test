@@ -1,5 +1,5 @@
 // ex5.h : ex5 应用程序的主头文件
-//
+
 #pragma once
 
 #ifndef __AFXWIN_H__
