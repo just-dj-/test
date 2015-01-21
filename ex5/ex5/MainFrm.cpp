@@ -1,6 +1,4 @@
 // MainFrm.cpp : CMainFrame 类的实现
-//
-
 #include "stdafx.h"
 #include "ex5.h"
 
